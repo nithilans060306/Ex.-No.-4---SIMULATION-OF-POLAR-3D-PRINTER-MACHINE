@@ -33,7 +33,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![image](https://github.com/nithilans060306/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/147473026/5dae9e69-3078-4a5e-83a0-1850e10c1d3b)
+![image](https://github.com/nithilans060306/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/147473026/ae960738-4e75-4f9c-b115-b47dd2261523)
 
 ### Name:
 Nithilan S
